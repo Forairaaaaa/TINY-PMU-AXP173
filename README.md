@@ -1,6 +1,8 @@
 # 【TINY-PMU】AXP173
 ![KeyShot渲染.9](E:\Module\TINY-PMU-AXP173\4.Pics\KeyShot渲染.9.png)
 
+![](https://github.com/Forairaaaaa/TINY-PMU-AXP173/blob/main/4.Pics/KeyShot%E6%B8%B2%E6%9F%93.9.png?raw=true)
+
 ##### 超迷你的电源管理模块，适用于带电池的小型移动设备和机器人等~
 
 - 基于**AXP173**，集成核心电路，连接即用
