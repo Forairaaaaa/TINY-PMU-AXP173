@@ -16,7 +16,7 @@
 - 可控DCDC、LDO电源输出
 - 电池温度、电量、充放电信息等
 
-#### Arduino库：
+#### 适配Arduino库：
 
 - [Forairaaaaa/TinyPMU: Arduino libaray for TINY-PMU](https://github.com/Forairaaaaa/TinyPMU)
 
