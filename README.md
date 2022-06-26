@@ -1,7 +1,11 @@
 # 【TINY-PMU】AXP173
-![](https://raw.githubusercontent.com/Forairaaaaa/TINY-PMU-AXP173/main/3.Pics/keyshot.14.png?token=GHSAT0AAAAAABUZO43A5TYMUW46HJGY7R3IYVYOKQA)
+![](https://github.com/Forairaaaaa/TINY-PMU-AXP173/blob/main/3.Pics/keyshot.14.16.9.png?raw=true)
 
 #### 超迷你的电源管理模块，适用于带电池的小型移动设备和机器人等~
+
+视频介绍：
+
+立创工程：
 
 - 超迷你： **1.6cm x 1.52cm**，基于**AXP173**，集成核心电路，连接即用
 - 引脚由2.54mm间距半孔引出，可焊接排针直接连接杜邦线使用，方便测试开发~
@@ -9,8 +13,7 @@
 
 #### 功能简述：
 
-- 电池充放电管理，输入输出保护
-- 多路可控电源输出
+- 可控DCDC、LDO电源输出
 - 电池温度、电量、充放电信息等
 
 #### Arduino库：
@@ -26,3 +29,6 @@
 
 - [www.x-powers.com](http://www.x-powers.com/index.php/Info/product_detail/article_id/27)
 
+![](https://github.com/Forairaaaaa/TINY-PMU-AXP173/blob/main/3.Pics/sch.jpg?raw=true)
+
+![](https://github.com/Forairaaaaa/TINY-PMU-AXP173/blob/main/3.Pics/pcb.jpg?raw=true)
