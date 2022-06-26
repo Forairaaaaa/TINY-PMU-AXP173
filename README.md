@@ -1,5 +1,5 @@
 # 【TINY-PMU】AXP173
-![](https://github.com/Forairaaaaa/TINY-PMU-AXP173/blob/main/3.Pics/keyshot.14.png?raw=true)
+![](https://github.com/Forairaaaaa/TINY-PMU-AXP173/blob/main/3.Pics/keyshot.14.4.3.png?raw=true)
 
 #### 超迷你的电源管理模块，适用于带电池的小型移动设备和机器人等~
 
