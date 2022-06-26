@@ -1,21 +1,28 @@
 # 【TINY-PMU】AXP173
-![](https://github.com/Forairaaaaa/TINY-PMU-AXP173/blob/main/4.Pics/KeyShot%E6%B8%B2%E6%9F%93.9.png?raw=true)
+![](https://raw.githubusercontent.com/Forairaaaaa/TINY-PMU-AXP173/main/3.Pics/keyshot.14.png?token=GHSAT0AAAAAABUZO43A5TYMUW46HJGY7R3IYVYOKQA)
 
 #### 超迷你的电源管理模块，适用于带电池的小型移动设备和机器人等~
 
-- 基于**AXP173**，集成核心电路，连接即用
-- 常用引脚由2.54mm间距半孔引出，可焊接排针直接连接杜邦线使用，方便测试开发~
-- 超迷你： **1.44cm x 1.29cm**，指甲盖大小
+- 超迷你： **1.6cm x 1.52cm**，基于**AXP173**，集成核心电路，连接即用
+- 引脚由2.54mm间距半孔引出，可焊接排针直接连接杜邦线使用，方便测试开发~
+- 常规工艺加工亦可
 
 #### 功能简述：
 
 - 电池充放电管理，输入输出保护
 - 多路可控电源输出
-- 电池温度、电量、充电时长等信息
+- 电池温度、电量、充放电信息等
 
-AXP173详细链接：[AXP173_电源管理单元_电源_产品_深圳芯智汇科技有限公司 (x-powers.com)](http://www.x-powers.com/index.php/Info/product_detail/article_id/27)
+#### Arduino库：
+
+- [Forairaaaaa/TinyPMU: Arduino libaray for TINY-PMU](https://github.com/Forairaaaaa/TinyPMU)
 
 #### 注意事项：
 
-1. 为减少体积，未引出DCDC-2相关引脚
-2. 布线宽度受限，不建议输出电流大于1A
+- 为减少体积，未引出DCDC-2相关引脚
+- 布线宽度受限，不建议负载电流过大
+
+#### 参考链接：
+
+- [www.x-powers.com](http://www.x-powers.com/index.php/Info/product_detail/article_id/27)
+
